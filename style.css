@@ -47,7 +47,8 @@ img{
     
 }
 form{
- background:url(image.webp)  
+ background:url(image.webp)
+ text-color:greenyellow;  
 }
 
 .container1{
